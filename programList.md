@@ -20,8 +20,16 @@
 | 9    | 4        | 338. Counting Bits | E | [Link](https://leetcode.com/problems/counting-bits/)|
 | 10    | 4        | 661. Image Smoother | E | [Link](https://leetcode.com/problems/image-smoother/)|
 | 11    | 5        | 283. Move Zeroes | E | [Link](https://leetcode.com/problems/move-zeroes/)|
-| 11    | 5        | 73. Set Matrix Zeroes | E | [Link](https://leetcode.com/problems/set-matrix-zeroes)|
-| 11    | 5        | 169. Majority Element | E | [Link](https://leetcode.com/problems/majority-element)|
-| 11    | 5        | 217. Contains Duplicate  | E | [Link](https://leetcode.com/problems/contains-duplicate)|
-| 11    | 5        | 88. Merge Sorted Array | E | [Link](https://leetcode.com/problems/merge-sorted-array/)|
+| 12    | 5        | 73. Set Matrix Zeroes | M | [Link](https://leetcode.com/problems/set-matrix-zeroes)|
+| 13    | 5        | 169. Majority Element | E | [Link](https://leetcode.com/problems/majority-element)|
+| 14    | 5        | 217. Contains Duplicate  | E | [Link](https://leetcode.com/problems/contains-duplicate)|
+| 15    | 5        | 88. Merge Sorted Array | E | [Link](https://leetcode.com/problems/merge-sorted-array/)|
+| 16    | 6        | 2614. Prime In Diagonal | M | [Link](https://leetcode.com/problems/prime-in-diagonal/)|
+| 17    | 6        | 941. Valid Mountain Array | E | [Link](https://leetcode.com/problems/valid-mountain-array/)|
+| 18    | 6        | 414. Third Maximum Number | E | [Link](https://leetcode.com/problems/third-maximum-number/)|
+| 19    | 8        | 2215. Find the Difference of Two Arrays | E | [Link](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|
+| 20    | 8        | 3. Longest Substring Without Repeating Characters | M | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| 21    | 8        | 1431. Kids With the Greatest Number of Candies | E | [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|
+| 22    | 8        | 724. Find Pivot Index  | E | [Link](https://leetcode.com/problems/find-pivot-index/)|
+| 23    | 8        | 2390. Removing Stars From a String | E | [Link](https://leetcode.com/problems/removing-stars-from-a-string/)|
 <!-- | 11    | 3        |  | E | [Link]()| -->
