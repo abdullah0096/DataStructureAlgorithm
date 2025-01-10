@@ -27,6 +27,7 @@
 | 16    | 6        | 2614. Prime In Diagonal | M | [Link](https://leetcode.com/problems/prime-in-diagonal/)|
 | 17    | 6        | 941. Valid Mountain Array | E | [Link](https://leetcode.com/problems/valid-mountain-array/)|
 | 18    | 6        | 414. Third Maximum Number | E | [Link](https://leetcode.com/problems/third-maximum-number/)|
+| Day  | 7        | <span style="color: yellow;"> Read about set data structure. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> [Read here](./DataStructures/set.md)|
 | 19    | 8        | 2215. Find the Difference of Two Arrays | E | [Link](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|
 | 20    | 8        | 3. Longest Substring Without Repeating Characters | M | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 | 21    | 8        | 1431. Kids With the Greatest Number of Candies | E | [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|
