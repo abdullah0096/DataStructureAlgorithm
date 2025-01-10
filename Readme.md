@@ -5,7 +5,7 @@ This repository is meant to be a starting point for solving data structure and a
 </p>
 
 <p style="text-align: justify;">
-[This List](./programList.md) contains problems from Leetcode. Solving them in the given order should be helpful.
+<a href="./programList.md" targer="_blank">This List </a> contains problems from Leetcode. Solving them in the given order should be helpful.
 </p>
 
 <p style="text-align: justify;">
