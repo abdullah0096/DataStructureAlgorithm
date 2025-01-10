@@ -13,7 +13,7 @@ This repository is meant to be a starting point for solving data structure and a
 </p>
 
 <p style="text-align: justify;">
-<a href="./extra_programs/" target="_blank"> This directory</a> contains extra practice problems. Every problem name name <a href="./programList.md" target="_blank"> leet code list </a> is preceded by a number, this number is used as file name in this directory. After solving a problem from leet code, a corresponding problem can be solved from this directory using the number from problem name. The problems in this directory are of similar difficulty level as the one with the same number on leet code.
+<a href="./ExtraPrograms/" target="_blank"> This directory</a> contains extra practice problems. Every problem name name <a href="./programList.md" target="_blank"> leet code list </a> is preceded by a number, this number is used as file name in this directory. After solving a problem from leet code, a corresponding problem can be solved from this directory using the number from problem name. The problems in this directory are of similar difficulty level as the one with the same number on leet code.
 </p>
 
 > A list of famous algorithms that CS students should know is available [here.](./MustKnowAlgorithmList.pdf) Familiarity with 70-80% of these algorithms is expected for CS students.
