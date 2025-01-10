@@ -9,7 +9,7 @@ This repository is meant to be a starting point for solving data structure and a
 </p>
 
 <p style="text-align: justify;">
-<a href="./dataStructures/" target="_blank"> This directory </a> contains theory about all major data structures in brief. Theory about each data structure is given in a separate file.
+<a href="./DataStructures/" target="_blank"> This directory </a> contains theory about all major data structures in brief. Theory about each data structure is given in a separate file.
 </p>
 
 <p style="text-align: justify;">
