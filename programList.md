@@ -2,7 +2,7 @@
  
 > This same list is available at [LeetCode](https://leetcode.com/problem-list/ajer4v8m/)
 
-> ⚠️ Critical Warning!  => LeetCode burnout is real. Be careful!
+> ⚠️ Warning!  => LeetCode burnout is real. Be careful!
 
 ---
 ## List of problems
