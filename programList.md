@@ -33,4 +33,6 @@
 | 21    | 8        | 1431. Kids With the Greatest Number of Candies | E | [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|
 | 22    | 8        | 724. Find Pivot Index  | E | [Link](https://leetcode.com/problems/find-pivot-index/)|
 | 23    | 8        | 2390. Removing Stars From a String | E | [Link](https://leetcode.com/problems/removing-stars-from-a-string/)|
+| 24    | 9        | 717. 1-bit and 2-bit Characters | E | [Link](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|
+| 25    | 9        | 26. Remove Duplicates from Sorted Array | E | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 <!-- | 11    | 3        |  | E | [Link]()| -->
