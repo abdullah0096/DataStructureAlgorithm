@@ -17,3 +17,5 @@ This repository is meant to be a starting point for solving data structure and a
 </p>
 
 > A list of famous algorithms that CS students should know is available [here.](./MustKnowAlgorithmList.pdf) Familiarity with 70-80% of these algorithms is expected for CS students.
+
+[This](./Basic%20Programming%20Practice%20Problem.pdf) list contains programs for learning/practicing basic programming. Problems from this list can be solved in any programming language. Problems in this list cover most of the topics, but is not a comprehensive list.
